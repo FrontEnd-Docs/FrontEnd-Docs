@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FrontEnd-Docs
+- 👀 I’m interested in Psychology and Coding
+- 🌱 I’m currently learning HTML, CSS , JavaScript and C
